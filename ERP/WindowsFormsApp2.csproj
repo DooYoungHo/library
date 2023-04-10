@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2FB83AE7-AF58-4F0B-821D-BEFDB99C7E32}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp2</RootNamespace>
+    <AssemblyName>WindowsFormsApp2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Account_profit_and_loss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Account_profit_and_loss.Designer.cs">
+      <DependentUpon>Account_profit_and_loss.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Business_trip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Business_trip.Designer.cs">
+      <DependentUpon>Business_trip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dubblebuffer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="em_ct_money_check.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="em_ct_money_check.Designer.cs">
+      <DependentUpon>em_ct_money_check.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="official_document.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="official_document.designer.cs">
+      <DependentUpon>official_document.cs</DependentUpon>
+    </Compile>
+    <Compile Include="payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="payment.designer.cs">
+      <DependentUpon>payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="request_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="request_Form.designer.cs">
+      <DependentUpon>request_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Setting_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setting_form.designer.cs">
+      <DependentUpon>Setting_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GradietnPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="new_cpy_create.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_cpy_create.Designer.cs">
+      <DependentUpon>new_cpy_create.cs</DependentUpon>
+    </Compile>
+    <Compile Include="new_id_pw_create.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_id_pw_create.Designer.cs">
+      <DependentUpon>new_id_pw_create.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="prt_em_list_select.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="prt_em_list_select.Designer.cs">
+      <DependentUpon>prt_em_list_select.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Account_profit_and_loss.resx">
+      <DependentUpon>Account_profit_and_loss.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business_trip.resx">
+      <DependentUpon>Business_trip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="em_ct_money_check.resx">
+      <DependentUpon>em_ct_money_check.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="official_document.resx">
+      <DependentUpon>official_document.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="payment.resx">
+      <DependentUpon>payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="request_Form.resx">
+      <DependentUpon>request_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setting_form.resx">
+      <DependentUpon>Setting_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_cpy_create.resx">
+      <DependentUpon>new_cpy_create.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_id_pw_create.resx">
+      <DependentUpon>new_id_pw_create.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="prt_em_list_select.resx">
+      <DependentUpon>prt_em_list_select.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings-cogwheel-button_icon-icons.com_72559.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\homepage1_114609.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ac_btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cpy_btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\em_btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prt_btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\set_btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\real_set_btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\real_home_btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\id_img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pw_img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_btn_img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\set_btn_img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\del_btn_eeeee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\date.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_real_btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right_arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left_arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fff.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FOLDER_IMAGE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tempsnip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tempsnip1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tempsnip2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tempsnip3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-save-btn_img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-save-btn_img_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-simple-calculator-75775.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-simple-calculator-75775_big.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error_profile.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\erp1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

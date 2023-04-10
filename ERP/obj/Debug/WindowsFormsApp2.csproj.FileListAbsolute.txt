@@ -1,0 +1,166 @@
+C:\Users\202-1354\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\202-1354\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\202-1354\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\202-1354\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\202-1354\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\202-1354\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\202-1354\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\202-1354\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\202-1354\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\202-1354\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\202-1354\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\202-1354\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\AdminCom\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\AdminCom\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\AdminCom\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\AdminCom\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\AdminCom\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\AdminCom\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\AdminCom\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\AdminCom\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\AdminCom\Desktop\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\AdminCom\Desktop\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\AdminCom\Desktop\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\LG\Desktop\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\LG\Desktop\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\LG\Desktop\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\LG\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\LG\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\LG\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\LG\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\LG\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\LG\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\LG\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\LG\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\LG\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\202-1354\Desktop\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\202-1354\Desktop\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\202-1354\Desktop\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\202-1354\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\202-1354\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\202-1354\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\202-1354\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\202-1354\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\202-1354\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\202-1354\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\202-1354\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\202-1354\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\202-1354\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.new_id_pw_create.resources
+C:\Users\202-1354\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.new_cpy_create.resources
+C:\Users\202-1354\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Business_trip.resources
+C:\Users\202-1354\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.prt_em_list_select.resources
+C:\Users\202-1354\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.em_ct_money_check.resources
+C:\Users\202-1354\Desktop\WindowsFormsApp2\obj\Debug\Example.Setting_form.resources
+C:\Users\202-1354\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Account_profit_and_loss.resources
+C:\Users\202-1354\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.official_document.resources
+C:\Users\202-1354\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.payment.resources
+C:\Users\202-1354\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.request_Form.resources
+C:\Users\AdminCom\Desktop\erp_main_last\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\AdminCom\Desktop\erp_main_last\bin\Debug\WindowsFormsApp2.exe
+C:\Users\AdminCom\Desktop\erp_main_last\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\AdminCom\Desktop\erp_main_last\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\AdminCom\Desktop\erp_main_last\obj\Debug\WindowsFormsApp2.Account_profit_and_loss.resources
+C:\Users\AdminCom\Desktop\erp_main_last\obj\Debug\WindowsFormsApp2.Business_trip.resources
+C:\Users\AdminCom\Desktop\erp_main_last\obj\Debug\WindowsFormsApp2.em_ct_money_check.resources
+C:\Users\AdminCom\Desktop\erp_main_last\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\AdminCom\Desktop\erp_main_last\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\AdminCom\Desktop\erp_main_last\obj\Debug\WindowsFormsApp2.official_document.resources
+C:\Users\AdminCom\Desktop\erp_main_last\obj\Debug\WindowsFormsApp2.payment.resources
+C:\Users\AdminCom\Desktop\erp_main_last\obj\Debug\WindowsFormsApp2.request_Form.resources
+C:\Users\AdminCom\Desktop\erp_main_last\obj\Debug\Example.Setting_form.resources
+C:\Users\AdminCom\Desktop\erp_main_last\obj\Debug\WindowsFormsApp2.new_cpy_create.resources
+C:\Users\AdminCom\Desktop\erp_main_last\obj\Debug\WindowsFormsApp2.new_id_pw_create.resources
+C:\Users\AdminCom\Desktop\erp_main_last\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\AdminCom\Desktop\erp_main_last\obj\Debug\WindowsFormsApp2.prt_em_list_select.resources
+C:\Users\AdminCom\Desktop\erp_main_last\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\AdminCom\Desktop\erp_main_last\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\AdminCom\Desktop\erp_main_last\obj\Debug\WindowsFormsApp2.exe
+C:\Users\AdminCom\Desktop\erp_main_last\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\202-1354\Desktop\erp_main_real_last\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\202-1354\Desktop\erp_main_real_last\bin\Debug\WindowsFormsApp2.exe
+C:\Users\202-1354\Desktop\erp_main_real_last\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\202-1354\Desktop\erp_main_real_last\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\202-1354\Desktop\erp_main_real_last\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\202-1354\Desktop\erp_main_real_last\obj\Debug\WindowsFormsApp2.Account_profit_and_loss.resources
+C:\Users\202-1354\Desktop\erp_main_real_last\obj\Debug\WindowsFormsApp2.Business_trip.resources
+C:\Users\202-1354\Desktop\erp_main_real_last\obj\Debug\WindowsFormsApp2.em_ct_money_check.resources
+C:\Users\202-1354\Desktop\erp_main_real_last\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\202-1354\Desktop\erp_main_real_last\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\202-1354\Desktop\erp_main_real_last\obj\Debug\WindowsFormsApp2.official_document.resources
+C:\Users\202-1354\Desktop\erp_main_real_last\obj\Debug\WindowsFormsApp2.payment.resources
+C:\Users\202-1354\Desktop\erp_main_real_last\obj\Debug\WindowsFormsApp2.request_Form.resources
+C:\Users\202-1354\Desktop\erp_main_real_last\obj\Debug\Example.Setting_form.resources
+C:\Users\202-1354\Desktop\erp_main_real_last\obj\Debug\WindowsFormsApp2.new_cpy_create.resources
+C:\Users\202-1354\Desktop\erp_main_real_last\obj\Debug\WindowsFormsApp2.new_id_pw_create.resources
+C:\Users\202-1354\Desktop\erp_main_real_last\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\202-1354\Desktop\erp_main_real_last\obj\Debug\WindowsFormsApp2.prt_em_list_select.resources
+C:\Users\202-1354\Desktop\erp_main_real_last\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\202-1354\Desktop\erp_main_real_last\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\202-1354\Desktop\erp_main_real_last\obj\Debug\WindowsFormsApp2.exe
+C:\Users\202-1354\Desktop\erp_main_real_last\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\202-wer\Desktop\erp_main_last3\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\202-wer\Desktop\erp_main_last3\bin\Debug\WindowsFormsApp2.exe
+C:\Users\202-wer\Desktop\erp_main_last3\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\202-wer\Desktop\erp_main_last3\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\202-wer\Desktop\erp_main_last3\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\202-wer\Desktop\erp_main_last3\obj\Debug\WindowsFormsApp2.Account_profit_and_loss.resources
+C:\Users\202-wer\Desktop\erp_main_last3\obj\Debug\WindowsFormsApp2.Business_trip.resources
+C:\Users\202-wer\Desktop\erp_main_last3\obj\Debug\WindowsFormsApp2.em_ct_money_check.resources
+C:\Users\202-wer\Desktop\erp_main_last3\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\202-wer\Desktop\erp_main_last3\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\202-wer\Desktop\erp_main_last3\obj\Debug\WindowsFormsApp2.official_document.resources
+C:\Users\202-wer\Desktop\erp_main_last3\obj\Debug\WindowsFormsApp2.payment.resources
+C:\Users\202-wer\Desktop\erp_main_last3\obj\Debug\WindowsFormsApp2.request_Form.resources
+C:\Users\202-wer\Desktop\erp_main_last3\obj\Debug\Example.Setting_form.resources
+C:\Users\202-wer\Desktop\erp_main_last3\obj\Debug\WindowsFormsApp2.new_cpy_create.resources
+C:\Users\202-wer\Desktop\erp_main_last3\obj\Debug\WindowsFormsApp2.new_id_pw_create.resources
+C:\Users\202-wer\Desktop\erp_main_last3\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\202-wer\Desktop\erp_main_last3\obj\Debug\WindowsFormsApp2.prt_em_list_select.resources
+C:\Users\202-wer\Desktop\erp_main_last3\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\202-wer\Desktop\erp_main_last3\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\202-wer\Desktop\erp_main_last3\obj\Debug\WindowsFormsApp2.exe
+C:\Users\202-wer\Desktop\erp_main_last3\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\202-1354\Desktop\erp_main_last_deco\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\202-1354\Desktop\erp_main_last_deco\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\202-1354\Desktop\erp_main_last_deco\obj\Debug\WindowsFormsApp2.Account_profit_and_loss.resources
+C:\Users\202-1354\Desktop\erp_main_last_deco\obj\Debug\WindowsFormsApp2.Business_trip.resources
+C:\Users\202-1354\Desktop\erp_main_last_deco\obj\Debug\WindowsFormsApp2.em_ct_money_check.resources
+C:\Users\202-1354\Desktop\erp_main_last_deco\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\202-1354\Desktop\erp_main_last_deco\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\202-1354\Desktop\erp_main_last_deco\obj\Debug\WindowsFormsApp2.official_document.resources
+C:\Users\202-1354\Desktop\erp_main_last_deco\obj\Debug\WindowsFormsApp2.payment.resources
+C:\Users\202-1354\Desktop\erp_main_last_deco\obj\Debug\WindowsFormsApp2.request_Form.resources
+C:\Users\202-1354\Desktop\erp_main_last_deco\obj\Debug\Example.Setting_form.resources
+C:\Users\202-1354\Desktop\erp_main_last_deco\obj\Debug\WindowsFormsApp2.new_cpy_create.resources
+C:\Users\202-1354\Desktop\erp_main_last_deco\obj\Debug\WindowsFormsApp2.new_id_pw_create.resources
+C:\Users\202-1354\Desktop\erp_main_last_deco\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\202-1354\Desktop\erp_main_last_deco\obj\Debug\WindowsFormsApp2.prt_em_list_select.resources
+C:\Users\202-1354\Desktop\erp_main_last_deco\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\202-1354\Desktop\erp_main_last_deco\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\202-1354\Desktop\erp_main_last_deco\obj\Debug\WindowsFormsApp2.exe
+C:\Users\202-1354\Desktop\erp_main_last_deco\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\202-1354\Desktop\erp_main_last_deco\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\202-1354\Desktop\erp_main_last_deco\bin\Debug\WindowsFormsApp2.exe
+C:\Users\202-1354\Desktop\erp_main_last_deco\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\piman\OneDrive\바탕 화면\ERP\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\piman\OneDrive\바탕 화면\ERP\bin\Debug\WindowsFormsApp2.exe
+C:\Users\piman\OneDrive\바탕 화면\ERP\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\piman\OneDrive\바탕 화면\ERP\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\piman\OneDrive\바탕 화면\ERP\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\piman\OneDrive\바탕 화면\ERP\obj\Debug\WindowsFormsApp2.Account_profit_and_loss.resources
+C:\Users\piman\OneDrive\바탕 화면\ERP\obj\Debug\WindowsFormsApp2.Business_trip.resources
+C:\Users\piman\OneDrive\바탕 화면\ERP\obj\Debug\WindowsFormsApp2.em_ct_money_check.resources
+C:\Users\piman\OneDrive\바탕 화면\ERP\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\piman\OneDrive\바탕 화면\ERP\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\piman\OneDrive\바탕 화면\ERP\obj\Debug\WindowsFormsApp2.official_document.resources
+C:\Users\piman\OneDrive\바탕 화면\ERP\obj\Debug\WindowsFormsApp2.payment.resources
+C:\Users\piman\OneDrive\바탕 화면\ERP\obj\Debug\WindowsFormsApp2.request_Form.resources
+C:\Users\piman\OneDrive\바탕 화면\ERP\obj\Debug\Example.Setting_form.resources
+C:\Users\piman\OneDrive\바탕 화면\ERP\obj\Debug\WindowsFormsApp2.new_cpy_create.resources
+C:\Users\piman\OneDrive\바탕 화면\ERP\obj\Debug\WindowsFormsApp2.new_id_pw_create.resources
+C:\Users\piman\OneDrive\바탕 화면\ERP\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\piman\OneDrive\바탕 화면\ERP\obj\Debug\WindowsFormsApp2.prt_em_list_select.resources
+C:\Users\piman\OneDrive\바탕 화면\ERP\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\piman\OneDrive\바탕 화면\ERP\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\piman\OneDrive\바탕 화면\ERP\obj\Debug\WindowsFormsApp2.exe
+C:\Users\piman\OneDrive\바탕 화면\ERP\obj\Debug\WindowsFormsApp2.pdb
