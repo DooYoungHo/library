@@ -1,1 +1,1 @@
-# projects
+# smart library projects
